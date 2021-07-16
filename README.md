@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning C++, WebDev
 - 💞️ I’m looking to collaborate on WebDev Projects
 - 📫 How to reach me...
-- 📧 Email- lightyagamiprodigy@gmail.com
+- 📧 Email- eshukoli.mba@gmail.com
