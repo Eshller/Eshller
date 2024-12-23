@@ -3,9 +3,10 @@
 🚀 **Tech Enthusiast | Entrepreneur | Full-Stack Developer**
 
 - 🎓 **IIT Bombay Graduate, 2024**
-- 🏆 **Finalist at Global Student Entrepreneur Award 2023**
+- 💡 **Founder of [Eshway](https://www.eshway.com)**
+- 🔧 **Buliding [Live Tracking Dashboard (LTD)](https://ltd.eshway.com)**
 - 🎤 **Josh Talks Speaker**
-- 💡 **Founder of [Live Tracking Dashboard (LTD)](https://your-ltd-link.com)**
+- 🏆 **Finalist at Global Student Entrepreneur Award 2023**
 - 🔭 Currently working on: Revolutionizing project management with LTD
 - 🌱 Learning and scaling with Next.js, TypeScript, and MongoDB
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/eshller/) | [Instagram](https://instagram.com/eshller)
@@ -23,4 +24,4 @@
 ### 📈 **My GitHub Stats**
 ![Eshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshller&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshller&layout=compact)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshller&layout=compact)](https://github.com/eshller)
